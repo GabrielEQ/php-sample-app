@@ -8,3 +8,6 @@ docker run -d -e MYSQL_DATABASE='demo'  -e MYSQL_ALLOW_EMPTY_PASSWORD='yes' --na
 
 Logs:
 docker logs backend -f
+
+Testando a conexão no banco:
+docker exec -ti backend mysql -u root -p
