@@ -25,7 +25,9 @@ A estrutura foi criada com base nas seguintes tags:
 ***Observações:***
 Certifique-se de que ja tenha o docker e o GIT instalado em sua máquina. 
 Caso ainda não tenha, acesse os segintes links e faça a instalação conforme as instruções:
+
 [instalar o git](https://git-scm.com/) 
+
 [instalar Docker](https://www.docker.com/get-docker) 
 
 Doc . do Mysql: https://hub.docker.com/_/mysql/
