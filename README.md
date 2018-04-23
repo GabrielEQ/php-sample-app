@@ -32,6 +32,7 @@ Caso ainda não tenha, acesse os segintes links e faça a instalação conforme 
 
 Doc . do Mysql: https://hub.docker.com/_/mysql/
 
+Agora abra o Terminal se estiver em um MAC ou Linux, caso esteja em windows abra o CMD
 Build:
 docker build . -t db:0.0.1
 
